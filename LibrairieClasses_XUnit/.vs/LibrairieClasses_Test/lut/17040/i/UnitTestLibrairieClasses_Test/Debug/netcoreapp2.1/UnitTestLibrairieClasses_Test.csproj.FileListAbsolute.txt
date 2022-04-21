@@ -1,0 +1,3 @@
+C:\Users\khriis01\Data\Cours\2019\Automne 2019\INF33307\Exercices 2019\LibrairieClasses_Test\.vs\LibrairieClasses_Test\lut\0\i\UnitTestLibrairieClasses_Test\Debug\netcoreapp2.1\UnitTestLibrairieClasses_Test.csproj.CoreCompileInputs.cache
+C:\Users\khriis01\Data\Cours\2019\Automne 2019\INF33307\Exercices 2019\LibrairieClasses_Test\.vs\LibrairieClasses_Test\lut\0\i\UnitTestLibrairieClasses_Test\Debug\netcoreapp2.1\UnitTestLibrairieClasses_Test.AssemblyInfoInputs.cache
+C:\Users\khriis01\Data\Cours\2019\Automne 2019\INF33307\Exercices 2019\LibrairieClasses_Test\.vs\LibrairieClasses_Test\lut\0\i\UnitTestLibrairieClasses_Test\Debug\netcoreapp2.1\UnitTestLibrairieClasses_Test.AssemblyInfo.cs

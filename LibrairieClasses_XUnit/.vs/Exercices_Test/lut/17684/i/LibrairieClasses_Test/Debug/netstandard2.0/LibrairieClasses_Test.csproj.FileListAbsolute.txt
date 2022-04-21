@@ -1,0 +1,8 @@
+C:\Users\khriis01\Data\Cours\2019\Automne 2019\INF33307\Exercices 2019\LibrairieClasses_Test\.vs\Exercices_Test\lut\0\b\LibrairieClasses_Test\Debug\netstandard2.0\LibrairieClasses_Test.deps.json
+C:\Users\khriis01\Data\Cours\2019\Automne 2019\INF33307\Exercices 2019\LibrairieClasses_Test\.vs\Exercices_Test\lut\0\b\LibrairieClasses_Test\Debug\netstandard2.0\LibrairieClasses_Test.dll
+C:\Users\khriis01\Data\Cours\2019\Automne 2019\INF33307\Exercices 2019\LibrairieClasses_Test\.vs\Exercices_Test\lut\0\i\LibrairieClasses_Test\Debug\netstandard2.0\LibrairieClasses_Test.csprojAssemblyReference.cache
+C:\Users\khriis01\Data\Cours\2019\Automne 2019\INF33307\Exercices 2019\LibrairieClasses_Test\.vs\Exercices_Test\lut\0\i\LibrairieClasses_Test\Debug\netstandard2.0\LibrairieClasses_Test.csproj.CoreCompileInputs.cache
+C:\Users\khriis01\Data\Cours\2019\Automne 2019\INF33307\Exercices 2019\LibrairieClasses_Test\.vs\Exercices_Test\lut\0\i\LibrairieClasses_Test\Debug\netstandard2.0\LibrairieClasses_Test.AssemblyInfoInputs.cache
+C:\Users\khriis01\Data\Cours\2019\Automne 2019\INF33307\Exercices 2019\LibrairieClasses_Test\.vs\Exercices_Test\lut\0\i\LibrairieClasses_Test\Debug\netstandard2.0\LibrairieClasses_Test.AssemblyInfo.cs
+C:\Users\khriis01\Data\Cours\2019\Automne 2019\INF33307\Exercices 2019\LibrairieClasses_Test\.vs\Exercices_Test\lut\0\i\LibrairieClasses_Test\Debug\netstandard2.0\LibrairieClasses_Test.csproj.CopyComplete
+C:\Users\khriis01\Data\Cours\2019\Automne 2019\INF33307\Exercices 2019\LibrairieClasses_Test\.vs\Exercices_Test\lut\0\i\LibrairieClasses_Test\Debug\netstandard2.0\LibrairieClasses_Test.dll
